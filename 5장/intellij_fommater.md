@@ -2,8 +2,11 @@
 # ✅ **Google Java Style – IntelliJ Code Style XML**
 
 > ✔ 들여쓰기 2 spaces
+
 > ✔ 최대 줄 길이 100
+
 > ✔ import 와일드카드 금지
+
 > ✔ 구글 자바 스타일의 모든 기본 규칙 반영
 
 파일명 예시: **GoogleJavaStyle.xml**
